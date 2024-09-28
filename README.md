@@ -57,3 +57,8 @@
 
 - Select the best model based on performance metrics.
 - Analyze feature importance and visualize decision boundaries (where applicable).
+  
+# Results
+- Decision Tree: [Insert performance metrics here]
+- Random Forest: [Insert performance metrics here]
+- SVM: [Insert performance metrics here]
